@@ -1,0 +1,16 @@
+LC709203F	KEYWORD1
+begin	KEYWORD2
+initRSOC	KEYWORD2
+setPowerMode	KEYWORD2
+setCellCapacity	KEYWORD2
+setCellProfile	KEYWORD2
+getICversion	KEYWORD2
+cellVoltage_mV	KEYWORD2
+cellRemainingPercent10	KEYWORD2
+cellStateOfCharge	KEYWORD2
+getThermistorBeta	KEYWORD2
+setThermistorB	KEYWORD2
+setTemperatureMode	KEYWORD2
+getCellTemperature	KEYWORD2
+setAlarmRSOC	KEYWORD2
+setAlarmVoltage	KEYWORD2
